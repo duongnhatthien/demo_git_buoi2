@@ -18,9 +18,8 @@ function multiply($a, $b) {
 }
 
 // Hàm chia
-function divide($a, $b) {
-	
-   
+function divide($a, $b) {	
+    return $a/$b;
 }
 
 // Ví dụ sử dụng các hàm
