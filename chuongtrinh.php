@@ -7,6 +7,7 @@ function add($a, $b) {
 
 // Hàm trừ
 function subtract($a, $b) {
+    return $a- $b;
 }
 
 // Hàm nhân
