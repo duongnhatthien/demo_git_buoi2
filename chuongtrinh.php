@@ -2,6 +2,8 @@
 
 // Hàm cộng
 function add($a, $b) {
+    $soA = $a;
+    $soB = $b;
     return $a + $b;
 }
 
