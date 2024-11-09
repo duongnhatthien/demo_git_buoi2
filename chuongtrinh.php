@@ -15,6 +15,7 @@ function multiply($a, $b) {
 
 // Hàm chia
 function divide($a, $b) {
+    return $a/$b;
    
 }
 
