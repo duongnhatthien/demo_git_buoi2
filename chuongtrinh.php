@@ -11,10 +11,12 @@ function subtract($a, $b) {
 
 // Hàm nhân
 function multiply($a, $b) {
+	return $a * $b;
 }
 
 // Hàm chia
 function divide($a, $b) {
+	
    
 }
 
